@@ -1,0 +1,37 @@
+site_name: smallzh's Java
+theme:
+    name: smzhbook
+    
+nav:
+    - 介绍: index.md
+    - Java 历史: history.md
+    - 基础语法:
+        - 数据类型: data_type.md
+        - 控制流语句: control_flow.md
+        - 函数与方法: function.md
+    - 面向对象编程:
+        - 类与对象: class_and_object.md
+        - 继承与多态: inheritance_polymorphism.md
+    - 核心库:
+        - 异常处理: exception_handling.md
+        - 集合框架: collections.md
+        - 泛型: generics.md
+        - IO与NIO: io_nio.md
+        - 多线程与并发: concurrency.md
+    - Java 8 新特性:
+        - Lambda 表达式: lambda_expressions.md
+        - Stream API: stream_api.md
+        - Optional 类: optional.md
+        - 方法引用: method_references.md
+        - 默认方法: default_methods.md
+        - 日期时间API: date_time_api.md
+    - Java 14-17 新特性:
+        - Switch 表达式: switch_expressions.md
+        - Text Blocks: text_blocks.md
+        - Records: records.md
+        - Sealed Classes: sealed_classes.md
+        - Pattern Matching: pattern_matching.md
+    - 概览:
+        - Java 8-17新特性: java_new_features.md
+    
+plugin: []
