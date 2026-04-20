@@ -13,3 +13,8 @@ uv sync
 ```shell
 uv run mkdocs serve
 ```
+
+## 3.运行测试
+```shell
+mvn test
+```
