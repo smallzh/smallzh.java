@@ -5,6 +5,7 @@ theme:
 nav:
     - 介绍: index.md
     - Java 历史: history.md
+    - 安装Java环境: install_java.md
     - 基础语法:
         - 数据类型: data_type.md
         - 控制流语句: control_flow.md
